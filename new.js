@@ -1,0 +1,1 @@
+console.log("The only JS code i have typed all day, so sad!");
